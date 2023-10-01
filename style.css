@@ -86,6 +86,28 @@ body{
 }
 
 /* ------------------- PANTALLA PRINCIPAL ---------------------- */
+/* .product-card {
+    border: 1px solid #402b30;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f2977e;
+    text-align: center;
+}
+.product-card img{
+    max-width: 100%;
+    height: auto;
+}
+
+.product-datail img{
+    max-width: 100%;
+    height: auto;
+} */ */
+
+
+
+
+
+
 .principal-texto{
     text-align: center;
     padding: 20px 10px;
@@ -103,7 +125,7 @@ body{
     justify-content: center;
 }
 
-.principal-tarjetas .tarjetas-producto{
+.principal-tarjetas .product-card{
     width: 200px;
     margin: 15px;
     overflow: hidden;
@@ -112,13 +134,13 @@ body{
     background-color: var(--color-secundario);
 }
 
-.principal-tarjetas .tarjetas-producto img{
+.principal-tarjetas .product-card img{
     width: 100%;
     height: 300px;
 }
 
 
-.producto-titulo{
+.product-title{
     text-align: center;
     font-size: 2vw;
     font-family: var(--text-lg);
@@ -126,7 +148,7 @@ body{
     color: var(--color-quinto);
 }
 
-.tarjetas-producto p{
+.product-card p{
     bottom: -100%;
     padding: 35px;
     max-height: 100%;
@@ -141,12 +163,12 @@ body{
 }
 
 
-.tarjetas-producto:hover p{
+.product-card:hover p{
     bottom: 0;
 }
 
 
-.producto-boton{
+.detail-button{
     padding: 5px;
     border: 0;
     margin-bottom: 5px;
@@ -158,7 +180,7 @@ body{
     font-family: var(--text-lg);
 }
 
-.producto-boton:hover{
+.detail-button:hover{
     background-color: var(--color-quinto);
     color: var(--color-cuarto);
     cursor: pointer;

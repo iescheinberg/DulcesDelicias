@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto 1",
+        "descripcion": "Descripción corta del Producto 1",
+        "imagen": "assets/img/CupCakes (2).jpg",
+        "detalle": "Descripción larga del Producto 1",
+        "precio": 100,
+        "puntuacion": "*****"
+    },
+    {
+        "id": 2,
+        "nombre": "Producto 2",
+        "descripcion": "Descripción corta del Producto 2",
+        "imagen": "assets/img/Pastafrola.webp",
+        "detalle": "Descripción larga del Producto 2",
+        "precio": 100,
+        "puntuacion": "*****"
+    },
+    {
+        "id": 3,
+        "nombre": "Producto 3",
+        "descripcion": "Descripción corta del Producto 3",
+        "imagen": "assets/img/LemonPie (2).jpg",
+        "detalle": "Descripción larga del Producto 3",
+        "precio": 100,
+        "puntuacion": "*****"
+    },
+    {
+        "id": 4,
+        "nombre": "Producto 4",
+        "descripcion": "Descripción corta del Producto 4",
+        "imagen": "assets/img/TartaFrutas.jpg",
+        "detalle": "Descripción larga del Producto 4",
+        "precio": 100,
+        "puntuacion": "*****"
+    },
+    {
+        "id": 5,
+        "nombre": "Producto 5",
+        "descripcion": "Descripción corta del Producto 5",
+        "imagen": "assets/img/TartaToffy (2).jpg",
+        "detalle": "Descripción larga del Producto 5",
+        "precio": 100,
+        "puntuacion": "*****"
+    },
+    {
+        "id": 6,
+        "nombre": "Producto 6",
+        "descripcion": "Descripción corta del Producto 6",
+        "imagen": "assets/img/AlfajoresMarplatences.jpg",
+        "detalle": "Descripción larga del Producto 6",
+        "precio": 100,
+        "puntuacion": "*****"
+    }
+]
