@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function(){
                     <h2>${selectedProduct.nombre}</h2>
                     <p>${selectedProduct.detalle}</p>
                     <img src="${selectedProduct.imagen}" alt="${selectedProduct.nombre}">
-                    <p>Precio: $${selectedProduct.precio}</p>
+                    <p>Precio: $${selectedProduct.precio} c/u</p>
                     <button id="back-button">Volver</button>
                     `;
 

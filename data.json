@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "nombre": "Producto 1",
-        "descripcion": "Descripción corta del Producto 1",
+        "nombre": "Cupcakes",
+        "descripcion": "Decorados con crema y toppings variados.",
         "imagen": "assets/img/CupCakes (2).jpg",
-        "detalle": "Descripción larga del Producto 1",
-        "precio": 100,
+        "detalle": "Estos encantadores mini pasteles son una delicia para los sentidos. Con una base esponjosa y variadas opciones de sabores, están coronados con una generosa porción de crema y adornos creativos que los convierten en un auténtico placer para cualquier ocasión especial o simplemente para darse un capricho.",
+        "precio": 400,
         "puntuacion": "*****"
     },
     {
         "id": 2,
-        "nombre": "Producto 2",
-        "descripcion": "Descripción corta del Producto 2",
-        "imagen": "assets/img/Pastafrola.webp",
-        "detalle": "Descripción larga del Producto 2",
-        "precio": 100,
+        "nombre": "Torta de frutas",
+        "descripcion": "Esponjosa delicia con arándanos y cobertura suave.",
+        "imagen": "assets/img/tortaMoras.jpg",
+        "detalle": "Esta maravillosa torta combina la esponjosidad de su masa con la explosión de sabor de los arándanos frescos. La cobertura suave y dulce se funde en la boca, equilibrando a la perfección el ligero toque ácido de las bayas. Es una opción ideal para quienes buscan un postre que deleite los paladares con su suavidad y frescura natural.",
+        "precio": 5600,
         "puntuacion": "*****"
     },
     {
         "id": 3,
-        "nombre": "Producto 3",
-        "descripcion": "Descripción corta del Producto 3",
+        "nombre": "Lemon Pie",
+        "descripcion": "Base crujiente y relleno de limón cremoso.",
         "imagen": "assets/img/LemonPie (2).jpg",
-        "detalle": "Descripción larga del Producto 3",
-        "precio": 100,
+        "detalle": "Una verdadera joya en el mundo de los postres. La base crujiente contrasta maravillosamente con el relleno suave y cremoso de limón, creando una experiencia única para el paladar. La tarta cítrica es un equilibrio perfecto entre lo dulce y lo ácido, brindando una explosión de sabor que cautiva a todos los amantes de los cítricos.",
+        "precio": 4800,
         "puntuacion": "*****"
     },
     {
         "id": 4,
-        "nombre": "Producto 4",
-        "descripcion": "Descripción corta del Producto 4",
-        "imagen": "assets/img/TartaFrutas.jpg",
-        "detalle": "Descripción larga del Producto 4",
-        "precio": 100,
+        "nombre": "Budín de limón",
+        "descripcion": "Postre húmedo y cítrico, perfecto para cualquier ocasión.",
+        "imagen": "assets/img/budinLimon.jpg",
+        "detalle": "Este postre húmedo y aromático es una auténtica delicia para los amantes del limón. Su textura suave y esponjosa, combinada con el sabor cítrico y refrescante, lo convierte en una opción perfecta para cualquier momento del día. Ya sea en el desayuno o como postre, el budín de limón es una experiencia gustativa que no se olvida fácilmente.",
+        "precio": 3400,
         "puntuacion": "*****"
     },
     {
         "id": 5,
-        "nombre": "Producto 5",
-        "descripcion": "Descripción corta del Producto 5",
+        "nombre": "Tarta Toffy",
+        "descripcion": "Exquisita tarta con caramelo, nueces y base crujiente.",
         "imagen": "assets/img/TartaToffy (2).jpg",
-        "detalle": "Descripción larga del Producto 5",
-        "precio": 100,
+        "detalle": "Una exquisita creación que combina a la perfección la riqueza del dulce de leche con la textura crujiente de la cobertura de chocolate amargo y una base firme. El contraste entre lo dulce y lo amargo en esta tarta es simplemente irresistible. Cada bocado es una explosión de sabor y texturas que deja un inolvidable recuerdo en el paladar.",
+        "precio": 1100,
         "puntuacion": "*****"
     },
     {
         "id": 6,
-        "nombre": "Producto 6",
-        "descripcion": "Descripción corta del Producto 6",
-        "imagen": "assets/img/AlfajoresMarplatences.jpg",
-        "detalle": "Descripción larga del Producto 6",
-        "precio": 100,
+        "nombre": "Cookies",
+        "descripcion": "Suaves o crujientes, con chips de chocolate o frutos secos",
+        "imagen": "assets/img/cookies.jpg",
+        "detalle": "Ya sean suaves y tiernas por dentro o crujientes y doradas por fuera, estas galletas son un clásico reconfortante. Pueden estar cargadas de chips de chocolate, nueces o frutos secos, proporcionando una mezcla perfecta de sabores y texturas. Perfectas para acompañar un café o disfrutar como un pequeño momento de indulgencia en cualquier momento del día.",
+        "precio": 120,
         "puntuacion": "*****"
     }
 ]
