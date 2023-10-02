@@ -22,11 +22,6 @@ body {
     background-color: #f4c790;
 }
 
-.body::selection{
-    background-color: #ba6868;
-    color: #faddb4;
-}
-/* EL SELECTION NO LO TOMA */
 
 /* -------------------------- --HEADER ---------------------*/
 
@@ -50,6 +45,8 @@ body {
 /* -------------------- MENÚ DE NAVEGACIÓN ----------------- */
 
 /* HACER UN NAVBAR FIJO */
+
+
 
 .menu {
     background-color: #ba6868;
@@ -99,6 +96,13 @@ body {
 }
 
 /* ------------------- PANTALLA PRINCIPAL ---------------------- */
+
+.principal-text::selection{
+    background-color: #402b30;
+    color: #faddb4;
+}
+/* NO ME TOMA EL SELECCTION */
+
 
 .principal-text {
     text-align: center;
